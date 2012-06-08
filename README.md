@@ -1,7 +1,7 @@
 minecraft-website
 =================
 
-The website for my minecraft server. If anything this codebase will be up at (minecraft.azrathud.com)[http://minecraft.azrathud.com](http://minecraft.azrathud.com/)
+The website for my minecraft server. If anything this codebase will be up at [ minecraft.azrathud.com ]( http://minecraft.azrathud.com )
 
 ###Usage
 
